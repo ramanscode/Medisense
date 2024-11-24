@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    border: border-box;
+}
+
+.Medicine {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.health {
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 18px;
+    line-height: 1.3em;
+    margin-top: 0;
+}
+
+.Medicine_Part1 {
+    background-image: url("../images/header_img.webp");
+    background-color: #2285d9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 135px;
+    padding-bottom: 135px;
+
+}
+
+.GET_btn {
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    background-color: #2a3a47;
+    padding: 16px 35px;
+    text-transform: uppercase;
+    line-height: 1.3em;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    border: none;
+}
+.GET_btn:hover{
+    background-color: #093d67;
+}
+
+/* ****** medicine part 2************ */
+
+.love_free {
+    background-image: url("../images/doctor_with_checker.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    padding-top: 50px;
+    
+}
+
+.love {
+    margin-bottom: 10px;
+    line-height: 1.2em;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+
+}
+
+.free {
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 18px;
+    margin-top: 0;
+    line-height: 1.4em;
+}
+
+.meet_doct {
+    font-size: 14px;
+    color: #fff;
+    padding: 16px 35px;
+    background-color: #2285d9;
+    border-radius: 0;
+    line-height: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+}
+.meet_doct:hover{
+    background-color: #034987;
+}
+
+.deal_off {
+    background-image: url("../images/tablet_box.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+
+}
+
+.deal {
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+.off{
+    font-weight: 500;
+    color: #fff;
+    font-size: 40px;
+    line-height: 1.3em;
+}
+
+/* ************** medicine_part3 **************** */
+.P3_medicine{
+    font-size: 10px;
+    color: #364146;
+    border-style: solid;
+    font-weight: 700;
+    line-height: 1.3em;
+    font-style: normal;
+    padding: 25px 20px;
+    border-width: 0 0 0 5px;
+    justify-content: center;
+}
+.Sundown{
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: Rubik;
+    font-weight: 400;
+    color: #333;
+    margin-top: 0;
+    line-height: 1.2em;
+}
+.dollor{
+    font-size: 15px;
+    font-family: Rubik;
+    color: #d0021b;
+    line-height: 1.4em;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+
+.add_cart{
+    background-color: #2285d9;
+    color: #fff;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 2px;
+    font-weight: 400;
+    line-height: 1.4em;
+    padding: 14px 15px;
+    border: none;
+}
+
+
+.need{
+    font-size: 14px;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 15px;
+    line-height: 1.2em;
+    font-weight: 400;
+    background-color: #364146;
+    color: #fff;
+    padding: 10px 12px;
+}
+
+/* ******** medicine_part6 *********** */
+
+.part6{
+    background-image: url("../images/black_bg.webp");
+    
+    
+}
+
+.Private_d{
+    font-size: 30px;
+    color: #fff;
+    margin-top: 0;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 1.5em;
+}
+.make_free{
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 1.2em;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 0;
+}
+.appoinment{
+    background-color: #2a3a47;
+    border-radius: 0;
+    padding: 16px 40px;
+    text-transform: uppercase;
+    line-height: 1.3em;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+.appoinment:hover{
+    background-color: #ffff;
+}
